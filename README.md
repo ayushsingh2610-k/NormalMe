@@ -491,11 +491,3 @@ What you should cook right now
 **Ayush Singh**
 
 Computer Science student at IIIT Kota.
-
-Interested in:
-
-- Software Engineering
-- Full-Stack Development
-- Artificial Intelligence
-- Systems Engineering
-- Building useful products
