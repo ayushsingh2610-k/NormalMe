@@ -261,3 +261,5 @@ src/
 - [ ] Personalised ranking (using logged interaction data)
 - [ ] Push notifications for expiring items
 - [ ] Household sharing / multi-user pantry
+#   n o r m a l m e e  
+ 
